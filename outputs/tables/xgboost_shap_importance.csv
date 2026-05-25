@@ -1,0 +1,15 @@
+feature,mean_abs_shap
+feat_method_risk,5.551238
+feat_path_depth,3.5996182
+feat_sensitive_path,3.2911694
+feat_has_identifier,2.3885386
+feat_identifier_count,0.6978295
+feat_id_position,0.286127
+feat_param_name_id_risk,0.109530464
+feat_sibling_endpoint_count,0.06443735
+feat_path_param_ratio,0.062410902
+feat_param_count,0.039522722
+feat_response_401,0.012148474
+feat_requires_auth,0.0064528096
+feat_missing_auth_with_id,0.0004998682
+feat_is_admin,0.00017256686

@@ -1,0 +1,18 @@
+source_file,error
+data\raw\apisguru_flat\api_0111.yaml,"second must be in 0..59, not 60"
+data\raw\apisguru_flat\api_0747.yaml,"could not determine a constructor for the tag 'tag:yaml.org,2002:value'
+  in ""<unicode string>"", line 38853, column 15:
+                - =
+                  ^"
+data\raw\apisguru_flat\api_1161.yaml,"could not determine a constructor for the tag 'tag:yaml.org,2002:value'
+  in ""<unicode string>"", line 4904, column 23:
+                        - =
+                          ^"
+data\raw\apisguru_flat\api_1162.yaml,"could not determine a constructor for the tag 'tag:yaml.org,2002:value'
+  in ""<unicode string>"", line 5087, column 23:
+                        - =
+                          ^"
+data\raw\apisguru_flat\api_1163.yaml,"could not determine a constructor for the tag 'tag:yaml.org,2002:value'
+  in ""<unicode string>"", line 3687, column 23:
+                        - =
+                          ^"
